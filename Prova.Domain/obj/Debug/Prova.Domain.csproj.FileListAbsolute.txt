@@ -1,0 +1,45 @@
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Prova.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Prova.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\obj\Debug\Prova.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\obj\Debug\Prova.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-Common.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-WPF.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\System.Windows.Interactivity.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-Common.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-Common.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-WPF.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\SimpleMvvmToolkit-WPF.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\bin\Debug\System.Windows.Interactivity.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Domain\obj\Debug\Prova.Domain.csprojResolveAssemblyReference.cache
+D:\cedr\Prova.Domain\bin\Debug\Prova.Domain.dll
+D:\cedr\Prova.Domain\bin\Debug\Prova.Domain.pdb
+D:\cedr\Prova.Domain\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\cedr\Prova.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\cedr\Prova.Domain\bin\Debug\System.Windows.Interactivity.dll
+D:\cedr\Prova.Domain\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\cedr\Prova.Domain\obj\Debug\Prova.Domain.csprojResolveAssemblyReference.cache
+D:\cedr\Prova.Domain\obj\Debug\Prova.Domain.dll
+D:\cedr\Prova.Domain\obj\Debug\Prova.Domain.pdb

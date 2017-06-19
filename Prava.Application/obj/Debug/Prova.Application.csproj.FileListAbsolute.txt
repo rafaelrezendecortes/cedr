@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\obj\Debug\Prova.Application.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\bin\Debug\Prava.Application.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\bin\Debug\Prava.Application.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\bin\Debug\Prova.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\bin\Debug\Prova.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\obj\Debug\Prava.Application.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prava.Application\obj\Debug\Prava.Application.pdb
+D:\cedr\Prava.Application\bin\Debug\Prava.Application.dll
+D:\cedr\Prava.Application\bin\Debug\Prava.Application.pdb
+D:\cedr\Prava.Application\bin\Debug\Prova.Domain.dll
+D:\cedr\Prava.Application\bin\Debug\Prova.Domain.pdb
+D:\cedr\Prava.Application\obj\Debug\Prova.Application.csprojResolveAssemblyReference.cache
+D:\cedr\Prava.Application\obj\Debug\Prava.Application.dll
+D:\cedr\Prava.Application\obj\Debug\Prava.Application.pdb

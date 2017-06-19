@@ -1,0 +1,47 @@
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.dll.config
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\Prova.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\Prova.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.dll
+D:\Documentos\Visual Studio 2015\Projects\Prova.Angular.Web\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.pdb
+D:\cedr\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.dll.config
+D:\cedr\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Prova.Infra.Data.pdb
+D:\cedr\Prova.Infra.Data\bin\Debug\Prova.Domain.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Prova.Domain.pdb
+D:\cedr\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.csprojResolveAssemblyReference.cache
+D:\cedr\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.dll
+D:\cedr\Prova.Infra.Data\obj\Debug\Prova.Infra.Data.pdb
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Options.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Remotion.Linq.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Collections.Immutable.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Interactive.Async.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Options.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\Remotion.Linq.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Collections.Immutable.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Interactive.Async.xml
+D:\cedr\Prova.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
